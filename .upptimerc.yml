@@ -4,8 +4,8 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: News test
+    url: https://www.news.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
