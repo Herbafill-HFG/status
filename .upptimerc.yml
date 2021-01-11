@@ -15,14 +15,14 @@ sites:
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Test Site
+    url: https://herbafill.hu
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: herbafill-hfg.github.io/status/
+  #cname: herbafill-hfg.github.io/status/
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Herbafill-HFG/status/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
