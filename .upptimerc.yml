@@ -21,8 +21,19 @@ sites:
     url: https://www.google.com
   - name: Herbafill
     url: https://herbafill.hu
-    - name: Reflux - Hu
+  - name: Reflux - Hu
     url: https://refluxparna.hu
+  - name: Gegen
+    url: https://gegenverstopftenase.de
+  - name: Reflux - De
+    url: https://refluxkissen.de
+  - name: Beistress - De
+    url: https://beistress.de
+  - name: Oreiller - Fr
+    url: https://oreillerreflux.fr
+  - name: Herbafill.Eu
+    url: https://herbafill.eu
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
