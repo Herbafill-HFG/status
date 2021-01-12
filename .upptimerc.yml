@@ -43,7 +43,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Herbafill-HFG/status/master/static/img/icon.svg
   name: Upptime - Herbafill Services
   introTitle: "**HFG Web Monitoring** ."
-  introMessage: HFG web assests **real-time** data from our github. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime), [**HFG**](https://herbafill.group)
+  introMessage: HFG web assests **real-time** data from our github. [**HFG**](https://herbafill.group)
   navbar:
     - title: Status
       href: /status/
