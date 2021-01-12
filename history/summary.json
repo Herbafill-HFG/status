@@ -239,18 +239,18 @@
     "icon": "https://favicons.githubusercontent.com/herbafill.eu",
     "slug": "herbafill-eu",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "8.37%",
+    "uptimeDay": "8.37%",
+    "uptimeWeek": "8.37%",
+    "uptimeMonth": "8.37%",
+    "uptimeYear": "8.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-12": 23,
+      "2021-01-12": 56,
       "2021-01-11": 123
     }
   }
