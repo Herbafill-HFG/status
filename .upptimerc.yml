@@ -8,17 +8,6 @@ sites:
     url: https://youtube.com
   - name: Orrdugi
     url: https://orrdugulasellen.hu
-  - name: Google News
-    url: https://www.news.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
   - name: Herbafill
     url: https://herbafill.hu
   - name: Reflux - Hu
