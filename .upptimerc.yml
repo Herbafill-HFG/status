@@ -30,7 +30,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status/
   logoUrl: https://raw.githubusercontent.com/Herbafill-HFG/status/master/static/img/icon.svg
-  name: Upptime - Herbafill Services
+  name: Monitoring - Herbafill Services
   introTitle: "**HFG Web Monitoring** ."
   introMessage: HFG web assests **real-time** data from our github. [**HFG**](https://herbafill.group)
   navbar:
