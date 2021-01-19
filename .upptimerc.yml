@@ -24,7 +24,7 @@ sites:
     url: https://herbafill.eu
   - name: Impex.Eu
     url: https://impex-erp.herbafill.services
- - name: Erx.Eu
+  - name: Erx.Eu
     url: https://marketing.herbafill.network
 
 status-website:
