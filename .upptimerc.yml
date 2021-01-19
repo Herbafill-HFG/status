@@ -22,7 +22,10 @@ sites:
     url: https://oreillerreflux.fr
   - name: Herbafill.Eu
     url: https://herbafill.eu
-  
+  - name: Impex.Eu
+    url: https://impex-erp.herbafill.services/
+ - name: Erx.Eu
+    url: https://marketing.herbafill.network/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
