@@ -169,19 +169,19 @@
     "url": "https://impex-erp.herbafill.services",
     "icon": "https://favicons.githubusercontent.com/impex-erp.herbafill.services",
     "slug": "impex-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1446,
-    "timeDay": 1840,
-    "timeWeek": 1446,
-    "timeMonth": 1446,
-    "timeYear": 1446,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 1505,
+    "timeDay": 1911,
+    "timeWeek": 1505,
+    "timeMonth": 1505,
+    "timeYear": 1505,
     "dailyMinutesDown": {
-      "2021-01-26": 0
+      "2021-01-26": 19
     }
   },
   {
