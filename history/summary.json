@@ -207,19 +207,19 @@
     "url": "https://herbafill.group",
     "icon": "https://favicons.githubusercontent.com/herbafill.group",
     "slug": "hfg-corp",
-    "status": "down",
-    "uptime": "5.54%",
-    "uptimeDay": "5.54%",
-    "uptimeWeek": "5.54%",
-    "uptimeMonth": "5.54%",
-    "uptimeYear": "5.54%",
-    "time": 99,
-    "timeDay": 99,
-    "timeWeek": 99,
-    "timeMonth": 99,
-    "timeYear": 99,
+    "status": "up",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-01-28": 0
+      "2021-01-28": 184
     }
   }
 ]
