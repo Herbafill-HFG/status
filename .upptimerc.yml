@@ -26,6 +26,8 @@ sites:
     url: https://impex-erp.herbafill.services
   - name: Erx.Eu
     url: https://marketing.herbafill.network
+  - name: HfgCorp
+    url: https://herbafill.group
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
