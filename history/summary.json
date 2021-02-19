@@ -191,19 +191,19 @@
     "url": "https://marketing.herbafill.network",
     "icon": "https://favicons.githubusercontent.com/marketing.herbafill.network",
     "slug": "erx-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 653,
-    "timeWeek": 553,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 571,
+    "timeDay": 590,
+    "timeWeek": 543,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2021-02-19": 0
+      "2021-02-19": 44
     }
   },
   {
