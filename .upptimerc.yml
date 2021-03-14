@@ -28,6 +28,8 @@ sites:
     url: https://marketing.herbafill.network
   - name: HfgCorp
     url: https://herbafill.group
+  - name: Blog
+    url: https://blog.orrdugi.com  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
