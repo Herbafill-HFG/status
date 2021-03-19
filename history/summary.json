@@ -250,17 +250,17 @@
     "url": "https://orrdugi.com",
     "icon": "https://favicons.githubusercontent.com/orrdugi.com",
     "slug": "lp-1-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 175,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "time": 303,
+    "timeDay": 145,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   }
 ]
