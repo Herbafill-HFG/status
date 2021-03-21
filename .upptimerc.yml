@@ -32,6 +32,8 @@ sites:
     url: https://blog.orrdugi.com  
   - name: LP1-2
     url: https://orrdugi.com
+  - name: DocMngmt
+    url: https://docs.herbafill.services
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
