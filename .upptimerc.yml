@@ -24,8 +24,6 @@ sites:
     url: https://herbafill.eu
   - name: Impex.Eu
     url: https://impex-erp.herbafill.services
-  - name: Erx.Eu
-    url: https://marketing.herbafill.network
   - name: HfgCorp
     url: https://herbafill.group
   - name: Blog
