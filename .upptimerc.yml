@@ -32,6 +32,8 @@ sites:
     url: https://orrdugi.com
   - name: DocMngmt
     url: https://docs.herbafill.services
+  - name: Rflln-LP
+    url: https://refluxellen.hu
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
