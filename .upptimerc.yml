@@ -25,11 +25,7 @@ sites:
   - name: Impex.Eu
     url: https://impex-erp.herbafill.services
   - name: HfgCorp
-    url: https://herbafill.group  
-  - name: LP1-2
-    url: https://orrdugi.com
-  - name: DocMngmt
-    url: https://docs.herbafill.services
+    url: https://herbafill.group
   - name: Rflln-LP
     url: https://refluxellen.hu
     
