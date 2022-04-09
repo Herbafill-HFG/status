@@ -14,7 +14,7 @@
     "timeDay": 323,
     "timeWeek": 310,
     "timeMonth": 327,
-    "timeYear": 407,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://gegenverstopftenase.de",
     "icon": "https://favicons.githubusercontent.com/gegenverstopftenase.de",
     "slug": "gegen",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 0,
-    "timeWeek": 722,
-    "timeMonth": 819,
-    "timeYear": 851,
+    "time": 844,
+    "timeDay": 1189,
+    "timeWeek": 800,
+    "timeMonth": 831,
+    "timeYear": 852,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 2150,
     "timeWeek": 2177,
     "timeMonth": 2248,
-    "timeYear": 2095,
+    "timeYear": 2099,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 165,
     "timeWeek": 245,
     "timeMonth": 253,
-    "timeYear": 373,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   }
 ]
