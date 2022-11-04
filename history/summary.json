@@ -184,17 +184,17 @@
     "url": "https://refluxellen.hu",
     "icon": "https://favicons.githubusercontent.com/refluxellen.hu",
     "slug": "rflln-lp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 384,
-    "timeWeek": 3221,
-    "timeMonth": 1125,
-    "timeYear": 439,
+    "time": 424,
+    "timeDay": 1576,
+    "timeWeek": 3164,
+    "timeMonth": 1175,
+    "timeYear": 445,
     "dailyMinutesDown": {}
   }
 ]
